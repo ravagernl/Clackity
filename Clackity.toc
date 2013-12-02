@@ -1,6 +1,5 @@
 ## Interface: 50400
 ## Title: Clackity
-## Notes: My own chatframe layout, based on tekLayout (github.com/teknologic/teklayout)
+## Notes: My own chatframe layout
 ## Author: Ravagernl
-## X-Credits: Tekkub
 Clackity.lua
