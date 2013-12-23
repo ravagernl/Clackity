@@ -97,4 +97,5 @@ f:SetScript("OnEvent", function()
 
 	-- Force raid coloring
 	for i,v in pairs(CHAT_CONFIG_CHAT_LEFT) do ToggleChatColorNamesByClassGroup(true, v.type) end
+	for i = 1, 15 do ToggleChatColorNamesByClassGroup(true, "CHANNEL"..i) end
 end)
